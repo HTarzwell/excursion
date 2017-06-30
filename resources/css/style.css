@@ -21,3 +21,9 @@ a {
 	color: gray;
 	font-size: 21px;
 }
+footer,
+h3 {
+	color: gray;
+	text-align: right;
+	font-weight: 300;
+}
